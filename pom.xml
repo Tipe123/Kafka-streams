@@ -13,5 +13,6 @@
     <module>camel-kafka-producer</module>
     <module>greetings-streams</module>
     <module>greetings-consumer</module>
+    <module>Zmart</module>
   </modules>
 </project>
